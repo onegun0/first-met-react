@@ -32,11 +32,17 @@ import reportWebVitals from './reportWebVitals';
 // import LoginControl from "./chapter9/9.2LoginControl";
 // import Mailbox from "./chapter9/9.3Mailbox";
 // import LandingPage from "./chapter9/LandingPage";
-import AttendanceBook from './chapter10/AttendanceBook';
+// import AttendanceBook from './chapter10/AttendanceBook';
+// import RequestForm from "./chapter11/11.3RequestForm";
+// import FruitSelect from "./chapter11/11.4FruitSelect";
+// import Reservation from "./chapter11/11.5Reservation";
+// import SignUp from "./chapter11/11.8SignUp";
+import Calculator from "./chapter12/12.3Calculator";
+
 
 ReactDOM.render(
   // <React.StrictMode>
-    <AttendanceBook />
+    <Calculator />
   // </React.StrictMode>,
   ,
   document.getElementById('root')
