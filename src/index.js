@@ -37,16 +37,20 @@ import reportWebVitals from './reportWebVitals';
 // import FruitSelect from "./chapter11/11.4FruitSelect";
 // import Reservation from "./chapter11/11.5Reservation";
 // import SignUp from "./chapter11/11.8SignUp";
-import Calculator from "./chapter12/12.3Calculator";
+// import Calculator from "./chapter12/12.3Calculator";
+// import SignUpDialog from "./chapter13/13.1FancyBorder";
+// import ProfileCard from "./chapter13/13.3ProfileCard";
+// import DarkOrLight from "./chapter14/14.7DarkorWhite";
+// import Sample from "./chapter15/15.2Sample";
+import Block from "./chapter15/15.3Blocks";
 
 
 ReactDOM.render(
   // <React.StrictMode>
-    <Calculator />
+    <Block />
   // </React.StrictMode>,
   ,
   document.getElementById('root')
 );
 
 // reportWebVitals();
-
